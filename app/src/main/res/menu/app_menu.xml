@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/ister1"
+        android:title="ister 1"></item>
+    <item
+        android:id="@+id/ister2_arayuz"
+        android:title="ister2 "></item>
+    <item
+        android:id="@+id/ister3"
+        android:title="ister 3"></item>
+</menu>
